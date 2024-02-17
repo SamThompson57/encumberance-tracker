@@ -1,0 +1,28 @@
+{
+    "items": [
+       {
+        "name": "1x1",
+        "id" : 1,
+        "colour": "gold",
+        "squares": [[1]],
+        "weight": 1
+       },
+       {
+        "name": "2x2",
+        "id" : 2,
+        "colour": "purple",
+        "squares": [[1,1],[1,1]], 
+        "weight": 4
+       },
+       {
+        "name": "Minecraft Pick",
+        "id" : 2,
+        "colour": "brown",
+        "squares": [[1,1,1],[0,1,0],[0,1,0]],
+        "weight": 5
+       }
+    ]
+    
+    
+}
+
